@@ -6,18 +6,18 @@
 @import url(/styles/rodape.css);
 
 :root{
-    --cor-de-fundo:#F9F871;
-    --cor-principal:#008E83;
-    --cor-3:#31A686;
-    --cor-4:#5DBE83;
-    --cor-5:#8CD47C;
+    --cor-de-fundo:#71f9aa;
+    --cor-principal:#8e4000;
+    --cor-3:#6831a6;
+    --cor-4:#675dbe;
+    --cor-5:#d47cc5;
     --cor-6:#C0E775;
     --branco:#FFFFFF;
     --preto: #000000;
     --roxo: #9949B4;
     --amarelo: #F1F10E;
     --azul: #3d89ec;
-    --azul-degrade: linear-gradient(#262597,#16CFF8);;
+    --azul-degrade: linear-gradient(#181683,#09353f);;
     --fonte-principal: "Roboto";
     --fonte-secundaria: "Prompt";
 }
